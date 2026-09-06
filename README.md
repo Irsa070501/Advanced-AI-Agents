@@ -1,5 +1,7 @@
 # 🤖 Advanced-AI-Agents - Powerful AI Agents for Everyone
 
+[![SafeSkill 73/100](https://img.shields.io/badge/SafeSkill-73%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/irsa070501-advanced-ai-agents)
+
 ## 🚀 Getting Started
 Welcome to Advanced-AI-Agents! This project offers a collection of ready-to-use AI agent applications. Whether you want to explore single agents, create multi-agent teams, or dive into autonomous game-playing systems, we have you covered.
 
